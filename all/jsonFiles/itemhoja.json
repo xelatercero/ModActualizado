@@ -1,6 +1,0 @@
-{
-    "parent":"xelamod:item/standart",
-    "textures": {
-        "layer0":"xelamod:items/itemHoja"
-    }
-}
